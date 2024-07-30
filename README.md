@@ -61,9 +61,6 @@ The $y$-axis variable:
 * For the neighborhood plot, it is the mean of the neighborhood friending bias.
 
 
-
-
--------------
 ## Dataset
 
 #### Social Capital Dataset
@@ -83,3 +80,12 @@ Using anonymised longitudinal data from virtually the entire U.S. population, wh
 First, they demonstrate that the estimates allow for accurate targeting of measures to promote economic opportunity by identifying specific neighborhoods where certain subgroups of children grow up to have bad results. Neighborhoods matter at the most granular level: based on variables such as poverty rates in a child's local Census tract, characteristics of tracts one mile distant have minimal predictive value for a child's results. Because neighborhood circumstances are typically constant through time, their historical estimates are meaningful predictors of outcomes even for children growing up now.
 
 Second, using data from the Moving to Opportunity experiment and a quasi-experimental study methodology evaluating movers' outcomes, they show that the observational estimates are highly predictive of neighborhoods' causal impacts. Then they identify high-opportunity communities that are affordable to low-income families, so contributing to the development of affordable housing legislation. Our assessments of children's long-term outcomes are only weakly connected with traditional proxies for local economic success, such as employment growth rates, indicating that the conditions that foster higher upward mobility are not always the same as those that foster productive labor markets.
+
+### Folder Structure
+There are two subfolders, which are as follows:
+
+1. Datasets: This subfolder includes all the necessary datasets we use in our analysis, except of county_outcomes.csv that can be found in the referenced datasets url due to its size.
+
+2. Images: This subfolder includes all exported plots from our analysis in a .png format for the four last task and for the first task in a .html format. 
+
+3. Source_Code.zip: The source code of our solution is stored as a Jupyter notebook with the name "Source_Code.ipynb" which exists inside Source_Code.zip if you extracted it.
