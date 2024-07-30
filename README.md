@@ -84,8 +84,8 @@ Second, using data from the Moving to Opportunity experiment and a quasi-experim
 ### Folder Structure
 There are two subfolders, which are as follows:
 
-1. Datasets: This subfolder includes all the necessary datasets we use in our analysis, except of county_outcomes.csv that can be found in the referenced datasets url due to its size.
+1. Datasets: This subfolder includes all the necessary datasets we use in our analysis.
 
 2. Images: This subfolder includes all exported plots from our analysis in a .png format for the four last task and for the first task in a .html format. 
 
-3. Source_Code.zip: The source code of our solution is stored as a Jupyter notebook with the name "Source_Code.ipynb" which exists inside Source_Code.zip if you extracted it.
+3. Source_Code.ipynb: The source code of our solution is stored as a Jupyter notebook with the name "Source_Code.ipynb".
